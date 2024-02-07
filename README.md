@@ -10,6 +10,7 @@
             background-color: #E9F1FF ;
             margin: 0;
             padding: 0;
+            text-align: center;
         }
         header {
             background-color: #2C426C ;
