@@ -54,7 +54,7 @@
 <title>Clickable Button</title>
 <style>
     button {
-        background-color: #E9F1FF;
+        background-color: #900C3F;
         padding: 10px 20px;
         border: none;
         border-radius: 5px;
@@ -69,7 +69,7 @@
 
 <script>
 function displayMessage() {
-  alert("You clicked the button!");
+  alert("you are gay stupid bitch");
 }
 </script>
 
