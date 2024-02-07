@@ -48,3 +48,23 @@
     </div>
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Clickable Button</title>
+</head>
+<body>
+
+<button onclick="displayMessage()">Click Here!</button>
+
+<script>
+function displayMessage() {
+  alert("You clicked the button!");
+}
+</script>
+
+</body>
+</html>
+
