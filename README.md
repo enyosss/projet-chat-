@@ -48,12 +48,20 @@
     </div>
 </body>
 </html>
-<!DOCTYPE html>
-<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Clickable Button</title>
+<style>
+    button {
+        background-color: #E9F1FF;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-size: 16px;
+    }
+</style>
 </head>
 <body>
 
@@ -67,4 +75,3 @@ function displayMessage() {
 
 </body>
 </html>
-
