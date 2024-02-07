@@ -74,4 +74,3 @@ function displayMessage() {
 </script>
 
 </body>
-</html>
